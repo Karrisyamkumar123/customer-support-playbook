@@ -1,0 +1,26 @@
+TicketID,CustomerName,Email,Category,Priority,Status,IssueDescription,AssignedTo,DateCreated,DateResolved,TimeToResolve,ResolutionMethod,CSATScore,Notes
+1001,John Smith,john.smith@email.com,Technical,High,Resolved,Unable to login to account,Agent01,2024-01-15 09:30:00,2024-01-15 10:15:00,45,Password Reset,5,Quick resolution
+1002,Sarah Johnson,sarah.j@company.com,Billing,Medium,Resolved,Incorrect charge on invoice,Agent02,2024-01-15 11:00:00,2024-01-15 14:30:00,210,Refund Issued,4,Required manager approval
+1003,Mike Davis,mike.d@startup.io,Feature,Low,Open,Request for new export feature,Agent03,2024-01-15 13:45:00,,,Escalated to Product,,
+1004,Lisa Chen,lisa.chen@corp.com,Account,High,Resolved,Account locked due to suspicious activity,Agent01,2024-01-15 15:20:00,2024-01-15 15:45:00,25,Security Review,5,False positive
+1005,David Wilson,david.w@agency.net,Technical,Medium,In Progress,Slow loading times on dashboard,Agent02,2024-01-15 16:10:00,,,Under Investigation,,
+1006,Emma Brown,emma.b@consulting.com,Billing,High,Resolved,Double charge on subscription,Agent03,2024-01-15 17:30:00,2024-01-15 18:15:00,45,Refund Processed,5,Immediate resolution
+1007,Alex Rodriguez,alex.r@tech.com,Feature,Low,Open,Request for API documentation,Agent01,2024-01-16 08:15:00,,,Escalated to Engineering,,
+1008,Jessica Lee,jessica.l@design.com,Account,Medium,Resolved,Need to update company information,Agent02,2024-01-16 09:45:00,2024-01-16 10:30:00,45,Account Update,4,Standard procedure
+1009,Tom Anderson,tom.a@marketing.com,Technical,High,Resolved,Integration not working with third-party tool,Agent03,2024-01-16 11:20:00,2024-01-16 13:45:00,145,Escalated to Engineering,3,Complex technical issue
+1010,Rachel Green,rachel.g@finance.com,Billing,Medium,Resolved,Need invoice for tax purposes,Agent01,2024-01-16 14:00:00,2024-01-16 14:30:00,30,Invoice Generated,5,Simple request
+1011,Chris Martin,chris.m@startup.com,Feature,Low,Open,Request for bulk import feature,Agent02,2024-01-16 15:30:00,,,Escalated to Product,,
+1012,Amanda White,amanda.w@consulting.com,Technical,High,In Progress,Data export failing,Agent03,2024-01-16 16:45:00,,,Under Investigation,,
+1013,Kevin Park,kevin.p@agency.com,Account,Medium,Resolved,Need to add team members,Agent01,2024-01-16 17:20:00,2024-01-16 18:00:00,40,Team Management,4,Multiple users added
+1014,Sophie Turner,sophie.t@corp.com,Billing,High,Resolved,Payment method declined,Agent02,2024-01-17 08:30:00,2024-01-17 09:15:00,45,Payment Update,5,Card expired
+1015,Ryan Cooper,ryan.c@tech.com,Feature,Low,Open,Request for mobile app,Agent03,2024-01-17 09:45:00,,,Escalated to Product,,
+1016,Nicole Adams,nicole.a@design.com,Technical,Medium,Resolved,Email notifications not working,Agent01,2024-01-17 10:30:00,2024-01-17 11:45:00,75,Settings Configuration,4,User preference issue
+1017,Mark Thompson,mark.t@finance.com,Account,High,Resolved,Account compromised,Agent02,2024-01-17 12:00:00,2024-01-17 12:30:00,30,Security Reset,5,Immediate action required
+1018,Laura Garcia,laura.g@startup.com,Billing,Medium,Resolved,Need to change billing cycle,Agent03,2024-01-17 13:15:00,2024-01-17 14:00:00,45,Billing Update,4,Plan change requested
+1019,James Wilson,james.w@consulting.com,Feature,Low,Open,Request for custom reporting,Agent01,2024-01-17 14:30:00,,,Escalated to Product,,
+1020,Michelle Kim,michelle.k@agency.com,Technical,High,In Progress,API rate limiting issues,Agent02,2024-01-17 15:45:00,,,Escalated to Engineering,,
+1021,Robert Johnson,robert.j@corp.com,Account,Medium,Resolved,Need to deactivate user account,Agent03,2024-01-17 16:20:00,2024-01-17 16:50:00,30,Account Deactivation,5,Employee left company
+1022,Jennifer Davis,jennifer.d@tech.com,Billing,High,Resolved,Unexpected charge on account,Agent01,2024-01-17 17:00:00,2024-01-17 17:45:00,45,Charge Investigation,4,Legitimate charge explained
+1023,Daniel Lee,daniel.l@design.com,Feature,Low,Open,Request for dark mode theme,Agent02,2024-01-17 18:15:00,,,Escalated to Product,,
+1024,Ashley Brown,ashley.b@finance.com,Technical,Medium,Resolved,Search functionality not working,Agent03,2024-01-18 08:00:00,2024-01-18 09:30:00,90,Bug Fix,3,Required engineering fix
+1025,Michael Chen,michael.c@startup.com,Account,High,Resolved,Two-factor authentication setup,Agent01,2024-01-18 09:15:00,2024-01-18 09:45:00,30,Security Setup,5,Enhanced security enabled 

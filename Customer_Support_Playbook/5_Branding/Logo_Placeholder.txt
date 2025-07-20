@@ -1,0 +1,182 @@
+Logo Specifications and Usage Guidelines
+========================================
+
+[This file serves as a placeholder for the actual logo files. In a real implementation,
+this folder would contain the actual logo files in various formats and sizes.]
+
+LOGO FILES REQUIRED:
+===================
+
+Primary Logo Files:
+- logo-primary.png (300x100px, transparent background)
+- logo-primary.svg (vector format for scaling)
+- logo-primary-white.png (white version for dark backgrounds)
+- logo-primary-white.svg (vector white version)
+
+Secondary Logo Files:
+- logo-icon.png (64x64px, square format)
+- logo-icon.svg (vector icon format)
+- logo-icon-white.png (white icon version)
+- logo-icon-white.svg (vector white icon)
+
+Social Media Logos:
+- logo-social-square.png (512x512px, square format)
+- logo-social-circle.png (512x512px, circular format)
+- logo-social-banner.png (1200x630px, banner format)
+
+Print-Ready Logos:
+- logo-print-eps.eps (high-resolution EPS format)
+- logo-print-ai.ai (Adobe Illustrator format)
+- logo-print-pdf.pdf (PDF format for print)
+
+USAGE GUIDELINES:
+================
+
+Logo Placement:
+- Minimum clear space: 1x logo height on all sides
+- Maximum size: 300px width for digital use
+- Minimum size: 100px width for digital use
+- Print minimum: 1 inch width
+
+Color Usage:
+- Primary: Use on light backgrounds
+- White: Use on dark or colored backgrounds
+- Never: Use on busy or patterned backgrounds
+- Never: Stretch or distort the logo
+
+Background Requirements:
+- Light backgrounds: Use primary logo
+- Dark backgrounds: Use white logo
+- Colored backgrounds: Ensure sufficient contrast
+- Transparent backgrounds: Available for all formats
+
+Digital Usage:
+- Websites: Use PNG or SVG formats
+- Email signatures: Use PNG format, max 200px width
+- Presentations: Use PNG format, maintain aspect ratio
+- Social media: Use appropriate size for platform
+
+Print Usage:
+- Business cards: Use EPS or high-res PNG
+- Letterheads: Use EPS format
+- Brochures: Use EPS or AI format
+- Large format: Use EPS or AI format
+
+BRAND COLORS:
+============
+
+Primary Brand Colors:
+- Brand Blue: #2563EB
+- Brand Dark: #1E40AF
+- Brand Light: #3B82F6
+- Brand Accent: #60A5FA
+
+Supporting Colors:
+- Success Green: #059669
+- Warning Orange: #D97706
+- Error Red: #DC2626
+- Neutral Gray: #6B7280
+
+Typography:
+- Primary Font: Inter (web) / Arial (fallback)
+- Secondary Font: Georgia (serif)
+- Code Font: Monaco / Consolas
+
+LOGO DO'S AND DON'TS:
+=====================
+
+DO:
+- Use the logo at appropriate sizes
+- Maintain clear space around the logo
+- Use the correct color version for the background
+- Keep the logo proportional
+- Use vector formats when possible
+
+DON'T:
+- Stretch or distort the logo
+- Change the logo colors
+- Add effects or shadows to the logo
+- Use the logo on busy backgrounds
+- Make the logo too small to read
+- Use outdated versions of the logo
+
+ACCESSIBILITY:
+==============
+
+Contrast Requirements:
+- Logo must have sufficient contrast with background
+- Minimum contrast ratio: 4.5:1 for normal text
+- Minimum contrast ratio: 3:1 for large text
+- Test logo visibility on various backgrounds
+
+Alternative Text:
+- Always provide alt text for logo images
+- Use descriptive alt text: "[Company Name] Logo"
+- For decorative logos, use empty alt text: alt=""
+
+RESPONSIVE DESIGN:
+==================
+
+Mobile Usage:
+- Use icon version for small screens
+- Minimum touch target: 44x44px
+- Ensure logo is readable on mobile devices
+- Test logo visibility on various screen sizes
+
+Desktop Usage:
+- Use full logo when space allows
+- Maintain aspect ratio across screen sizes
+- Ensure logo scales appropriately
+- Test on different resolutions
+
+FILE ORGANIZATION:
+==================
+
+Folder Structure:
+/5_Branding/
+  /logos/
+    /primary/
+      - logo-primary.png
+      - logo-primary.svg
+      - logo-primary-white.png
+      - logo-primary-white.svg
+    /icons/
+      - logo-icon.png
+      - logo-icon.svg
+      - logo-icon-white.png
+      - logo-icon-white.svg
+    /social/
+      - logo-social-square.png
+      - logo-social-circle.png
+      - logo-social-banner.png
+    /print/
+      - logo-print-eps.eps
+      - logo-print-ai.ai
+      - logo-print-pdf.pdf
+
+Naming Convention:
+- Use descriptive names with format and size
+- Include color version in filename
+- Use lowercase with hyphens
+- Include dimensions in filename when relevant
+
+VERSION CONTROL:
+===============
+
+Logo Versions:
+- Current version: v2.1 (2024)
+- Previous version: v2.0 (2023)
+- Archive old versions in separate folder
+- Document changes between versions
+
+Update Process:
+- Review logo usage quarterly
+- Update guidelines as needed
+- Communicate changes to team
+- Archive old versions before updates
+
+[End of Logo Specifications]
+
+Note: This placeholder file outlines the requirements for logo files and usage
+guidelines. In a real implementation, this folder would contain the actual
+logo files in the specified formats and sizes. 

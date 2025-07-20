@@ -1,0 +1,16 @@
+TicketID,Category,Priority,Status,TimeToResolve,Description
+101,Billing,High,Resolved,45,Double charge on subscription
+102,Technical,Medium,Open,,Login issues
+103,Feature,Low,Open,,Request for new export feature
+104,Account,High,Resolved,30,Password reset needed
+105,Billing,Medium,Resolved,120,Invoice correction
+106,Technical,High,In Progress,,System performance issues
+107,Feature,Low,Open,,Dark mode request
+108,Account,Medium,Resolved,60,Team member addition
+109,Billing,High,Resolved,90,Payment method update
+110,Technical,Medium,Open,,Email notification problems
+111,Feature,Low,Open,,API documentation request
+112,Account,High,Resolved,25,Security lockout
+113,Billing,Medium,Resolved,75,Billing cycle change
+114,Technical,High,In Progress,,Integration failure
+115,Feature,Low,Open,,Mobile app request 
